@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WagbaProject</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="appName">Wagba</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="restAvail1">"Restaurant Name"</string>
+    <string name="restAvail2">"kind of food available"</string>
+    <string name="DishName">Dish Name</string>
+    <string name="Dish">Dish</string>
+    <string name="Price">Price</string>
+    <string name="restDetails2">components</string>
+    <string name="Status">Status</string>
+    <string name="PaidStatus">Paid or not</string>
+
+    <string-array name="GateNumber">
+        <item>Gate 3</item>
+        <item>Gate 4</item>
+    </string-array>
+
+    <string-array name="Time">
+        <item>12 pm</item>
+        <item>3 pm</item>
+    </string-array>
+
+
+    <string name="DeliveryGate">Deliver to:</string>
+    <string name="DeliveryTime">Deliver at:</string>
+
+</resources>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "34068829568",
+    "firebase_url": "https://wagbaproject-af30a-default-rtdb.firebaseio.com",
+    "project_id": "wagbaproject-af30a",
+    "storage_bucket": "wagbaproject-af30a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34068829568:android:60f88a091b7e996bff1d65",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34068829568-nkmrblj5jn2im0gbo63t80qruj8u223i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWjFqd5975_CGb8ekDHt_-cg2ze43Hrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34068829568-nkmrblj5jn2im0gbo63t80qruj8u223i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34068829568:android:0818d62b121d517aff1d65",
+        "android_client_info": {
+          "package_name": "com.example.wagbaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34068829568-nkmrblj5jn2im0gbo63t80qruj8u223i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWjFqd5975_CGb8ekDHt_-cg2ze43Hrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34068829568-nkmrblj5jn2im0gbo63t80qruj8u223i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
